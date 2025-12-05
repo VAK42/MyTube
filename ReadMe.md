@@ -116,8 +116,8 @@ Follow These Steps To Set Up The Project On Your Local Machine:
 ### Step 1: Clone The Repository
 
 ```bash
-git clone https://github.com/yourusername/youtube-clone.git
-cd youtube-clone
+git clone https://github.com/VAK42/MyTube.git
+cd MyTube
 ```
 
 ### Step 2: Install Dependencies
@@ -647,4 +647,4 @@ Contributions Are Welcome! Please Follow These Guidelines:
 
 ## License
 
-This Project Is Licensed Under The MIT License. See The LICENSE File For Details.
+This Project Is Licensed Under The MIT License.
